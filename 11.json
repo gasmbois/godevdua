@@ -1,0 +1,111 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+ 	{
+         "title": "Mobil Pajero Sport 2021 Cumi Darat",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mobil-Pajero-Sport-2021-Cumi-Darat.webp",
+         "link_mods": "https://www.mediafire.com/file/w0j6i6oj9wywdvy/PajeroFLSBYSopir.bussidmod/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod BUSSID Pajero Sport 2021",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-BUSSID-Pajero-Sport-2021.webp",
+         "link_mods": "https://www.mediafire.com/file/7yqn7k7bx7l7801/Mitsubishi+Pajero+Sport+2021.rar/file",
+         "link_livery": "null"
+      } ,
+    {
+         "title": "Mobil Pajero Sport Facelift v1",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mobil-Pajero-Sport-Facelift-v1.webp",
+         "link_mods": "",
+         "link_livery": "https://www.mediafire.com/file/7jfeshrg1zbb9dj/PAJERO+SPORT+BY+DSP.bussidmod/file"
+      } ,
+    {
+         "title": "Mod Mitsubishi Pajero Mudik by NanoNano",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Mitsubishi-Pajero-Mudik-by-NanoNano.webp",
+         "link_mods": "https://www.mediafire.com/file/zhozm3ak92wmbni/Mitsubishi+Pajero+++Barang].bussidvehicle/file",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Toyota Fortuner G 2009",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/973.jpg",
+         "link_mods": "https://www.mediafire.com/file/dr7tjq5rl8gnc86/MOD_FORTUNER_CVT_AZUMODS_27_G_2009.bussidmod/file",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Toyota Fortuner 2014",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/974.jpg",
+         "link_mods": "https://www.mediafire.com/file/pofbnz7drn2xbyi/Fortuner_2014_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/ygcbjckadwjedbx/orange.png"
+      } , 
+	{
+         "title": "Toyota Fortuner 2017",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/975.jpg",
+         "link_mods": "https://download2282.mediafire.com/i4vpewypi9ogjStTkUyd9cQGvLZRzes8hA6e4K8gR9wqHM2lipyr8w-y9lWT9hn8gH5Wg3MyjphbbQkeINKu6lCWOBXFJ1X_Z6lEmTwtopJ0b_IHjK9oGFreOM2HsB-J2eQ4Om44pVAJ7e_d5M7GMbUciy8W96-5t6WKGvr4KQDE7DA/6iysba8dwda0gbx/Fortuner1_sopir.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Toyota Fortuner G 2021",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/976.jpg",
+         "link_mods": "https://download2272.mediafire.com/7erz9n14iuqgY0KVCqKVxnLmFa69QNwuJMsdTq4n3-cdhX2lmiJoF6iyyn_SAf0CxyMMjUj1F9rpVvh_fuOPWV8Bibdmg2t582I2dYdJ9AlFtbgOJdA249Euy17V6U7LFBZVWNfDX4LNywkjLXlheA7Sl3Vj4Syw-Ffgcubx7L8Y-Lc/cq00dkrsmnsbb2b/MOD+FORTUNER+G+CVT+AZUMODS+facelift.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/7tmeeeqlrdtmr66/ABU.jpg/file"
+      } , 
+	{
+         "title": "Toyota Innova Reborn",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/907.jpg",
+         "link_mods": "https://download2389.mediafire.com/oyz1zzat52ggCcUbr_kpyYTiFHLA1MuJ0kKbclkGDlYI8kpreHqwzljDpdFF7DQZ5lhUd4w9LmHWVdgJSZZZq5XQ8uEhBhDLB4ZLDGsMowfoDxoprvKudhQtO0v4JJsSchkpOV_-v5zXPOn4eGaDhjmCGAu2lxVZFTZ2JO1cU4_vgeM/dv2xxymz97qpoun/Kijang+Innova+Reborn.bussidvehicle",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Toyota Hilux SRV 4×4 2015",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/914.jpg",
+         "link_mods": "https://download2389.mediafire.com/5trfe3jhq0kgowk2pBN3UuuqSeyvtPDHDSE5FBiS18AuTWR8kZHl0HZjQYG5POmpDjH4LWxG96-qqGd4hWXr7XOGhomvmkMNwYwyPAIfM8Kj4jF_PQ03QO7KvyYe5vmU5LqOVgaHk_djzhL9XtXgrU8ff4Kp3_4-gi3MahW1X8VFeiw/60kppzjtkqpq3sd/Toyota+Hilux+Srv+4x4+2015+by+MAH+Channel.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Toyota Revo (MX King)",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/917.jpg",
+         "link_mods": "https://download2298.mediafire.com/nft9ugo5r4cgQBt1BdkYJXZB5xzUBaxQJ9xWogd-87C0ml_67SfM0whRljzAeiVfBsa3Tnwhr1Hu_nOs65e1i4KPBdR5Ist401r0KyZPqDSrRxqHgLFKQ7SnLe56HIm3wJjMpNTUyPFr0cc0oaa7CzkKkUiHL7NlmtCAAYyoMflse5E/mhxqf7q5jromdfc/Toyota+Hilux+2016+MAH+Channel.zip",
+         "link_livery": "null"
+      }  
+   ]
+}
