@@ -1,0 +1,111 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Kawasaki Ninja ZX25R",
+         "image": "https://media.sketchfab.com/models/42bf130dd4b74619bb77f91142cd144e/thumbnails/a6d2d86f58bb48d6a862b538405615d9/be036534423d464cbd183ba099ae878e.jpeg",
+         "link_mods": "https://www.mediafire.com/file/2lwgcycsr066ipe/MOD+ZX25R+BUSSID+FREE+BY+AZUMODS.bussidmod/file",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Mod BUSSID Gojek Motor CRF",
+         "image": "https://cs1.gtaall.com/screenshots/4dc09/2021-06/original/6073544da994444c49b074db5fd21394fc31d86f/920863-Screenshot-14-6-2021-9-18-38-640.jpg",
+         "link_mods": "https://www.mediafire.com/file/3evvdof6icvw70c/Mod_GOJEK_Honda_CRF_BUSSID_FREE_BY_AZUMODS.rar/file",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Mod BUSSID Gojek Motor Beat",
+         "image": "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Honda-Beat-Gojek.jpeg",
+         "link_mods": "https://download1587.mediafire.com/lie0lkabas0g8LUQpUd4ZZkeb_z-x2RzfKB9lZgOnRBF0ZPQ4-u08sr-qO9wj-rhjNfmo7D2r6v_ZrZwJ7rJioztQpb9As2XlJu8BIXlYTi7SnWLeUzcsRxDtERvh6_z2lstOWSLANF77kcus9Acjs_WT2BG_ntvJxNllGLz-0hNxw/pijwv39b25nh0he/MOD+GOJEK+MOTOR+BEAT+BUSSID+FREE+BY+AZUMODS.rar",
+         "link_livery": ""
+      } ,  
+      {
+         "title": "Mod BUSSID Gojek Motor R15",
+         "image": "https://i0.wp.com/bussimulatorindonesia.in/wp-content/uploads/2023/05/Yamaha-R15-V2-MOD.webp",
+         "link_mods": "https://www.mediafire.com/file/pmq1z6so2h8cc45/MOD_GOJEK_MOTOR_R15_V3_BUSSID_FREE_BY_AZUMODS.rar/file",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Mod Motor Ninja 150 RR",
+         "image": "https://img.gta5-mods.com/q95/images/kawasaki-kr-150/2842c7-Grand-Theft-Auto-V-22_4_2560-11_55_37.jpg",
+         "link_mods": "https://download2393.mediafire.com/jft7goznztlgUyUt20SIGpyI424xjFjbQBbvAhvYVqWzQzRccaF7QXiGDi3oSA5c3pjdaAKmaT93G1vv5l4QuGf1w-mCAxj1ho7ugKJ3AzKaYrWbnqdvF63XM9NYwqKMiZvH0OZLBJA5wPMwcTVDKOaHeuessileJZNxiBisqSZzZA/9t6ob4niqux9h3v/MOD+NINJA+150+RR+DRAG+BUSSID+FREE+BY+AZUMODS.bussidmod",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Motor Kawasaki Ninja ZX10R Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/09/Screenshot_2021-09-17-13-43-25-06_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2362.mediafire.com/pt3nh0rhcv5gHcYkVUo49zoxdUa1KI1CdSVXCNt973j5wImIIsna8oo5NtqP_8FKKxzjM17nyK8ZAwm955DKmaGkTkvjVYK3pC4_aLvHv71Fa45b-j_43m9bjYFTljVZpEeE06O-9s9WcRxkaSjTANTw-GMmlpr0KdmLh7LwA4XArA/hvp3udvfa5atdb8/3.+ZX10R.bussidmod",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Motor Yamaha R25 Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/09/Screenshot_2021-09-17-13-42-37-51_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/tthdg5r37j1s34k/2.+R25.bussidmod/file",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Motor Honda CBR 600RR Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/09/Screenshot_2021-09-17-13-41-55-65_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/xv60apgudpsgq7i/1.+CBR+600RR.bussidmod/file",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Motor Harley Davidson Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-09-11-10-39-68_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/n246ddhvptipb7o/HARLEY+DAVIDSON+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Motor Kawasaki Ninja ZX25 R Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-09-11-10-34-65_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/oqg7le2giveki2t/ZX25R+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "null"
+      } ,  
+      {
+         "title": "Download Mod Motor BMW S1000 RR Bussid",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-motor-bmw.jpeg",
+         "link_mods": "http://www.mediafire.com/file/ebj18ay1cvaae7w/MOD+MOTOR+BMW+S1000RR+BUSSID+FREE+BY+AZUMODS.bussidmod/file",
+         "link_livery": "null"
+      }  
+   ]
+}
