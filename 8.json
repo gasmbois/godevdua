@@ -1,0 +1,107 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Truck Hino Dutro muat Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Hino-Dutro-muat-Pasir.webp",
+         "link_mods": "https://www.mediafire.com/file/wkkhsf7hy7vc8hz/HINO+DUTRO+PASIRAN+BUDESIGN.rar/file",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truck Hino 500 muatan Pasir Hitam",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Hino-500-muatan-Pasir-Hitam.webp",
+         "link_mods": "https://www.mediafire.com/file/5qgu4dv9rqhq55q/HINO+500+DUMP+BUDESIGN.rar/file",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truk Hino Lohan Spesial muatan Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truk-Hino-Lohan-Spesial-muatan-Pasir.webp",
+         "link_mods": "https://www.mediafire.com/file/mc1owwvjrzorosd/Truk+Hino+Lohan+Spesial+muatan+Pasir.rar/file",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Hino Dump 500NG Muat Pasir",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3961.jpg",
+         "link_mods": "https://download2393.mediafire.com/gq98btidxgoglA6vO9JgqRtY7JBXOFMLk7sI004_9PgCKCvjWX_lVHd0WFS_zsBrtgragRjD9hBzZ6OPO9dXkv_ofFUaY4nYNZPsu5inOL6xgyIOeBonyjkAT12GqQ2hHNp55_55cg8R-7EjS1FB-GJy-g7h3sggj1nFPbWQxeW_zQ/rr6xi9dhvx30hqj/Truck+Hino+Dump+500NG+by+WNR+-+Javastech.com.bussidmod",
+         "link_livery": "https://download1523.mediafire.com/yx9ply7aajdgznvqQnc1gttSeyaJfTn6p24u6xOu1Zp6_FBjGOSJGWk2QHe7KGZcRMB0F5HUF7vSabEqJeBXd7bUokquEBDe9xMzG3H-Y-1L_xzKDdBuF59XILvmd9_Dgps1a8A5VMmIRQHoZOHbGrlZ--FYCSSZBxu1o2llIfmS_Q/378bvxfp9vev8np/NEKO+POI+HINO+500+DUMP+by+GAG+OFFICIAL.png"
+      } ,
+	 {
+         "title": "Hino 500 Dump DT WD1 Muat Pasir",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2448.jpg",
+         "link_mods": "https://download2390.mediafire.com/ktlpjlap3mhgk2QwZJv0z61wu7FGIvpYgNY4WLQkNjP3-DrcJ1nkOM9pkzwarXwgMCueGdExEx9DzLtQtgabyUB6KwKuxgLJjJJVCqQuWpWVb0jZlHfVgl7_G7x8yHuLc9W3WshXfOmx8fONitVWvQxTI7IGUb2PPwNA1X3X5USkzw/gesfwjjfue1wmgr/HINO+500+NG+HSD+DT+WD1.bussidmod",
+         "link_livery": "https://download2393.mediafire.com/l0w4yemi8amg3dQANFEN9y3bK5i6_EVRkm6bbkuhOwna_h-A-_GUXjWxArJZnsy6ho1FN8XvXRFZEUlaH6WLWJhMxu6hBMCOOJC9ADTaRbeyK0EFW1zQP3m3lCm6YlvU2Q7oVLg2hOcIeBL-Da2iHNZViXhijyV3042DofrwETQ8dg/a7qj1vg6i5ai1dd/hino500-.png"
+      } ,
+	 {
+         "title": "Hino Dump Muat Pasir",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2449.jpg",
+         "link_mods": "https://download2266.mediafire.com/yfqd0dtrk8wgBJNrI5v249NCWBxn7A-VxvttMghSNXPmnmW-HXL-e7c5qCJtFdRLHu61JCLQN_2li6qqf7Y1oHhqw2v-CnXyrLmLqsY5jQE0OGpjFGRdlT8RAFYrT62cIZ_UAyvreqDiPgVPAdDtVov4Xih72aryE_-GgcrPTm80Ag/95qucxol2h9i37l/hino+pasir+non+topi.bussidmod",
+         "link_livery": "https://download2393.mediafire.com/v0nx3t4p89ygesBGObvivuOjlKFSIBn_PktQ9wLpUzYCCUe_LevqJsyX2FR6VK0wEvAzAXtvSiqQBrErgsmFeuPPM0NY-GEli8rIGPoN9Xdxz_4Ci9MTQc-CUr73n3-EQAcJW50OdGbxkjv8JOhmhAb3hR8-vaLnQkvjDfmcaXqtVQ/3z11gv0jbvr9p9a/dumpkotor-picsa-1.png"
+      } ,
+     {
+         "title": "Truck Canter Dump Muat Pasir",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2441.jpg",
+         "link_mods": "https://download2261.mediafire.com/xuclmnx51nigxVjawasAzpd1gDZ_97Nz93CZ73ieYLZuNEuoQSbyKcNK6FRN6agwzRhfAnCoAIxGWiRYlOUYcskWFpqlJdklZuSCPTSAUEOUD2aW1BYSd0kozBd66V7HbAdal5woF5JZcherxzIAg6u5udpuWkIYjUKcCaJovsQjCQ/tyc5rgl7no93bp1/Canter+%28Dump+Truck%29.bussidvehicle",
+         "link_livery": "https://download2280.mediafire.com/tgqxfmvxsyigbD1B0ixbbW0TcDwIURdoptmww_wtrNKvzpkwgb6RD_2OijFR7m7wT5ZgB1RLQH5Eq4MMd5NBuX0s5wLXBAozbso5RCMQvfxgopc3Yqq3xpsPL2CTPS0UBgPu7PAOKXGrGGO7kwV3oVUynQH-i2VmHi0wzvvS2ShP_Q/oopjq5rvsc6mt3w/Anti+Gosip+Canter+Dump+Truck.png"
+      } ,  {
+         "title": "Hino 500 HSD",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3960.jpg",
+         "link_mods": "https://download941.mediafire.com/h5kifk27clngJpS3Em8UySyl2GNbyamSRecgRWcPSBi96wejRy3na4etSYLxx-nqPKgiE1P0GB-46HqaxBpKnd7Ss_XrPSlbQC9BDwsyVfrXk4EHTIK_LVTRWmGsuu9kyabSZoBN_Vd9JkNmpiY9ZkOj4X7tHyeqctQ5CKfbcooAJw/ftgw1yjx0ygk9yf/HINO+500+NG+HSD+DT+NON+MUATAN+WD2+%281%29.bussidmod",
+         "link_livery": "https://download1074.mediafire.com/c4bd01fqvu3gfqkauVVR_8ir6bJ53cowv6OZw5c_ofnFD9OysgnwUOodEhNs02NmDtU4eK5BOVH-qA-Gu93GDRCZKjlB39SFc9DtHuYM7DjrwoyQ-gH86vgHOk_QRkosv1eEAsDf0xwGpkLFH7rLhYqbpwUqpShMHljT3oppbSCkzQ/dabrve36l58i9n6/BJM+%5BAQILA%5D+Hino+500+NG+Dump.png"
+      } , {
+         "title": "Truck Dump CWA",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2442.jpg",
+         "link_mods": "https://download1523.mediafire.com/360y44wv88og0uLLHLtiS7FbdHSiDD358rUKMENiKTCt7nf4VRmiz8eaZqa3YjMOqwrB1-WzE9K8Dm7PyqP-h7St0HtiPfugp2gL-RFo6hCpgPgkgGw0ACxvMlNYlV1KbHKp72HgbhwukSwCuCce34U48JUsIq39r6MdNB7z84XhRQ/j7iqfelfz2e3eam/cwa.bussidvehicle",
+         "link_livery": "null"
+      } ,  {
+         "title": "Hino Dump Kalimantan Muat Sawit",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2443.jpg",
+         "link_mods": "https://download2355.mediafire.com/44d0rlwowsjggeqyy21_hNzMemCGbHnEIVMZrwBfpvpgNlaXc_AbcwpIVUxpvKv0EtJjkn88eIpq_dFMK5Hgq-_ET4M2NBdMmUEqbUK5eWmDiGuMZVdeyP5h_ryGtZCHHK_OU7NzXUtRTpD0J8BYY5CjD689i1Wtw9mMGteugexE3Q/y38ezv2cpycycv6/Hino+500+Dump+update+styl+Kalimantan+.bussidmod",
+         "link_livery": "https://download2267.mediafire.com/rexm6oi1si1gSp_lkH3zy7r-s_3LEc42rZQlGByFV7YJBD-Wje-HnP-B35EHytbcTv4zKxlVwieUFTSoLmOCoLhKZd7CzqHh-ip-UPUBdbanzXnCGFCqN_DYY0uFOhJarbGmwbqb4IO8MQ6S6FdELc1vC7yv7eSKA-w-RLVS1GHEow/ubftkqeovpwy8ng/DUMP+ARYA+PRIMA+BY+FAM8OS.png"
+      } ,  {
+         "title": "Isuzu Dump Tronton",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2444.jpg",
+         "link_mods": "https://download2389.mediafire.com/4ihp8v4xumegk2lXgFmLtmralRikItshFhYDUSq0H46QkBEFWLXi5Lf_lghbls7B2MHDfqlfHWva8RY3r_cSC8BaFsWqEPhX5ep-u9hOWAT2D7GxrRTDcqfPD_eImixNz6tJU-xWpZgfI8GOqgd9DEZo9B89JwWRGaX3olIbJkNRVw/tnhhtldc9kk3wn8/DUMP+TRUCK+TRONTON+ISUZU+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2275.mediafire.com/ma4bgw105nxgaPMKgqUUCliRiDuDBbcEEAXEl76Om7KffUUT6dNNRKBsz55HGyxPjfroxDW8JBv3KTK3hGxQ0yOs7hxrotFc2UD1yymY07TAm7vzxbuKYHqo7e3TepZ6zqqjv6ApicGOXcrCXItfVeUcp4mJSaubS65EgujVZWFnBw/id3phtxvakhht53/Rebecca+Rollis+ISUZU+NMR+71-picsay.png"
+      } 
+   ]
+}
