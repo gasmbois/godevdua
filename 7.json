@@ -1,0 +1,129 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Bus JB3 PO Haryanto Air Suspension Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-07-11-38-36-43_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/w989k17w4hqyifm/14.+EVONEXT+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/a2galpm0f3l1xfy/14.Hr+Moslem+UMP+by+Blahbloh.png/file"
+      } ,
+	{
+         "title": "Bus PO Haryanto Ceper Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-20-12-16-22-45_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "http://www.mediafire.com/file/yovid1roqnxwjm9/1.+JB2++HINO+RK8+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "http://www.mediafire.com/file/r2womwfdjddb67y/1.+Hr+023+Sensation+JB2+by+Blahbloh.png/file"
+      },
+	{
+         "title": "Bus PO Haryanto Non Facelift Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-20-12-17-32-99_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "http://www.mediafire.com/file/pl8yz7pestte0pt/2.+JB3++NON+FACELIFT+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "http://www.mediafire.com/file/c0ff2ni1c019cvm/2.+Hr+061+Gan'z+Still+JB3++MDC+by+Blahbloh.png/file"
+      },
+	{
+         "title": "Bus PO Haryanto JB2HD New Livery",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/02/1.-Screenshot_2022-02-20-22-36-05-26_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/qw5qe2qt04577ke/1.+JB2HD+HEHE.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/i2181wxem7kbjkz/1.+PO+HARYANTOOO.png/file"
+      },
+	{
+         "title": "Bus PO Haryanto JB3+ Scania Reborn",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/02/3.-Screenshot_2022-02-20-22-45-39-47_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/gec05u2egfsjyfx/3.+JB3++SCANIA+K360.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/tq4fko2z9u4zpbh/3.+SENSATION+REBORN+HR+023+NON+BONEKA+UPDATE+JB3+SCANIA+K360+BY+GARASI+TUBE.png/file"
+      },
+	{
+         "title": "Bus PO Haryanto Livery Hercules 197 Scania K410B Full Animasi",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/09/4.-Screenshot_2022-09-27-19-05-57-87_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/etlu06pipfna7rj/4.+MOD+BUSSID+SR2+XHD+Prime+Scania+K410iB+by+Unity+Mods+Project.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/7liq1wnakkf4tcm/4.+Livery+HR+Hercules+197+Scania+K410IB+SR2+Tronton+UMP+by+Garasitube.png/file"
+      },
+	{
+         "title": "Bus PO Haryanto Scorpion Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/09/Screenshot_2021-09-05-15-03-14-51_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/lgz3pdjel29l9la/2.+SCORPION+X.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/ikc26w6ioj0al8w/2.+ScorpionX+Hino+Hr+By+Jeffry+Bussid.png/file"
+      },
+	{
+         "title": "Bus PO. Haryanto Avante H8 Full Animasi",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/10/4.-Screenshot_2022-10-18-16-31-06-41_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/h31g48k44nv4lam/4.+AVANTE+H8.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/7ycjkfsba35hfr8/4.+HR+140+Al+Fattaah+H7+by+Hanafi+Hardiyan.png/file"
+      },
+	{
+         "title": "Bus PO. Haryanto High Double Decker Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/10/3.-Screenshot_2022-10-18-16-29-29-67_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/vmx8hflsf4f54fm/3.+HDD+RN.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/l2pbu1k6hpvkos1/3.+HM+027+KADITA+DHATU+JB3+HDD+HINO+FREE+by+GeoFany.png/file"
+      },
+	{
+         "title": "Bus PO. Haryanto Evolander Gen 2 Full Penumpang",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/08/Screenshot_2021-08-27-13-09-10-15_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/el5kuo4xlew82ki/4._EVONEXT.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/1hyyekff6dzdkub/4._Evonext_Gen_2_Hr_By_Jeffry_Bussid.png/file"
+      },
+	{
+         "title": "Bus PO. Haryanto Evolander Tronton Scania",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/08/Screenshot_2021-08-27-13-07-55-18_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/83l6cdlyinydyni/3._EVOLANDER.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/o1k4fzu3dcignaa/3._Evolander_Tronton_Scania_Hr_By_Jeffry_Bussid.png/file"
+      },
+	{
+         "title": "Bus Haryanto Full Aksesoris [Updated]",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-01-18-59-57-97_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/p14vaw4tm6xavj6/3.+JB3++MERCY+O500R+JUGA+SHARE+BY+JODS+TV.zip/file",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Bus Haryanto White Roses HR 115 Full Aksesoris",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/04/Mod-Bus-Haryanto-White-Roses-HR-115-Full-Aksesoris.jpg",
+         "link_mods": "https://www.mediafire.com/file/opxkvs52t4qzk6g/4.+JB3++SHD+HINO.bussidmod/file",
+         "link_livery": "https://download.digitalpers.id/AoyHozJj"
+      },
+	{
+         "title": "Bus Haryanto Serdadu Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/03/Screenshot_2021-03-22-21-33-55-92_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/kzori3alqpgxu3g/2.+JB3++SHD+HINO+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/e45ato7rusypg1w/2.+HR+056+SERDADU+REBORN+BONEKA+JB3+SHD+HINO+BY+GARASITUBE.png/file"
+      }
+   ]
+}
