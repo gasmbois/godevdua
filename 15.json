@@ -1,0 +1,147 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Bussid Truck Canter Wahyu Abadi Terbaru Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/01/mod-bussid-truck-canter-wahyu-abadi.jpg",
+         "link_mods": "https://www.mediafire.com/file/i74lcezcx5c4m3i/3.+WAHYU+ABADI.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/qq0euetd1dhugoc/3.+Livery+wahyu+abadI+fam8os+by+RGDESIGN..png/file"
+      } ,
+	{
+         "title": "Truck Ragasa Full Terpal, Animasi + Strobo",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/03/Screenshot_2021-03-11-15-54-46-85_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/h2rnslrz13kd769/RAGASA+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/ajwmit1aoy3y6g6/KUNING+POLOS+TERPAL+GAYOR.png/file"
+      } ,
+	{
+         "title": "Mod Truck Canter Minimalis Bemper Avante Bussid",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/Mod-Truck-Canter-Minimalis-Bemper-Avante-Bussid-terbaru.jpg",
+         "link_mods": "http://www.mediafire.com/file/h65o8grpsf5d46m/truck+canter+minimalis+bember+avante.bussidmod/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Truck Canter Standard Minimalis Bussid",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/12/Mod-Truck-Canter-Standard.jpg",
+         "link_mods": "http://www.mediafire.com/file/qwqk846pwrolu5a/Truck+Canter+Standard+Minimalis.bussidmod/file",
+         "link_livery": "http://www.mediafire.com/file/54nll5b60g8x0pe/STANDARD+MINIMALIS.png/file"
+      } ,
+	{
+         "title": "Truck Hino Dutro Mbois Full Strobo/Animasi",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/03/Photo_210313015550.jpeg",
+         "link_mods": "https://www.mediafire.com/file/hm6dtcdmtxpth7l/DUTRO+SHARE+BY+JODS+TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/2hj45zzlszqznxn/dutro+mbois.png/file"
+      } ,
+	{
+         "title": "Truck Canter Syantik Terpal Gayor Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/03/Screenshot_2021-03-26-10-42-27-79_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/80otn2qxj8h6u4k/1.+1SYANTIK.bussidmod/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truck Canter Mukhlas Fast Blue Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/03/Screenshot_2021-03-29-16-27-30-66_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/sqd8j2g951pl7ic/3.cantermukhlas_fastblue.bussidmod/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truck Rollis Permata Abadi Terpal Segitiga",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/03/Screenshot_2021-03-30-19-03-42-88_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/6sdjuu5tkzd1n3g/6.New+Rollis+Full+Terpal.bussidmod/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Truck Fuso Terpal Segitiga Bussid Livery Jernih",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-truck-fuso-terpal-segitiga-bussid.jpg",
+         "link_mods": "http://www.mediafire.com/file/qctemsj1jy0inp7/2.+canter+bb.bussidmod/file",
+         "link_livery": "http://www.mediafire.com/file/lwfxouqjuds9ivn/2.+LIVERY+FIX+KHANZA+BUDESIGN.png/file"
+      } ,
+	{
+         "title": "Truck Canter HM Cabe Bos Galak Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-27-16-49-30-11_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "http://www.mediafire.com/file/xma78yx9w7negnz/3.+hmcabesquad.bussidmod/file",
+         "link_livery": "http://www.mediafire.com/file/h5hri32qgxq8vpy/1.+FIX+FIX+BOS+GALAK+BIRU.png/file"
+      } ,
+	{
+         "title": "Truck Canter New Calista Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-27-16-46-45-65_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "http://www.mediafire.com/file/8a1ul6l6wzwt9tn/2.+S3_Shilo.bussidmod/file",
+         "link_livery": "http://www.mediafire.com/file/700324juv4xowk0/2.+New+Calista+$3+AgungDwiDwi.png/file"
+      }  ,
+	{
+         "title": "Truck Fuso Terpal Segitiga Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-01-18-57-34-44_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/9uz6zhhipwuoqv6/2.+Canter+Full+Anim.zip/file",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Truck Canter Bemper Fortuner Full Anim + LED Strobo",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-03-20-07-36-27_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/zwa2yrhlgx4lnsm/Canter+Bemper+Fortuner.rar/file",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Truck Canter Sekar Taro Full Anim + Strobo",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-03-20-07-57-27_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/ya4y1ev3wss5njj/Canter+Bemper+Fortuner+Livery+Sekar+Taro.rar/file",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Truck Isuzu NMR Terpal Segitiga Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/Screenshot_2021-02-05-20-32-54-08_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2389.mediafire.com/kp6kmhmp1ehgnX0p1_AOpCOnfxGX7YQkB7Zak8HUkh_eaV4XAkek3JsN6-7aLHVr-Vy7YK6vTphuDRjuWYwTkofnw9FVywc3RP80aQnq7WyqFChzpSW7Mnwws9aiNTEpnH5BtwwrkP3LAkVZeyfzVHAfOcYYOBKTiHX81MP76hwM-g/u7oo3a9x2bx76nd/3.+ISUZU+NKR+SHARE+BY+JODS+TV.rar",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Download Mod Truck Souleh Art Terpal Segitiga Bussid",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-truck-souleh-art-terpal-segitiga.jpg",
+         "link_mods": "http://www.mediafire.com/file/l76d9sbaw1nm6aa/3.+Pindang+by+SA+Segitiga.bussidmod/file",
+         "link_livery": "https://download.digitalpers.id/ZbCEB"
+      }  ,
+	{
+         "title": "Mod Truck Rebecca On Fire HM Cabe Bussid",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-bussid-truck-rebecca-on-fire-HM-Cabe.jpg",
+         "link_mods": "http://download2350.mediafire.com/5v1xgvivfdsgkyoe2-BKdzsP9G2xuBUmls8h-cug9hGjQFV0lmesA_FviqFBPXIoro6MFccXnKiIzXMa___bQPqRRVjgvG0fYyqrMHPIsEDKQewJ16DOvXpRCX46N3GNjzp2Bu1hMx05kkyB5mFhQBN1vpcxXBNldFKC1qtvqCpXaQ/uelt813ku5jpitj/truck+rebecca+on+fire+hm+cabe.bussidmod",
+         "link_livery": "http://www.mediafire.com/file/fxsy6v8lqjf23xg/ONFIRE_HM_CABE_MUKHLAS_%2524.png/file"
+      } 
+   ]
+}
