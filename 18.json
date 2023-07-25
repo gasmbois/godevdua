@@ -1,0 +1,135 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Hino 700 Peti Kemas Box",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700-Peti-Kemas-Box.webp",
+         "link_mods": "https://www.mediafire.com/folder/8iv953jj9knhr/Hino+700+Peti+Kemas",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Truck Hino 700 Bunthek",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700.webp",
+         "link_mods": "https://download2388.mediafire.com/q3zb2b3l21bgVQLQYNQ3CFYhFoibSoCiJBVhM-utYZWkXUbbhlKjnO3X8qmZJ-_VjzmDc1Wgc_7yOgA4DBFDmvaXMs6vz3rmsRg3qvZ2_RRbSu72imDpORO5YUUOv-dops9gGtlKSrxIRxlgtpZStt8nhXQKpodJ9txqq7mM24uL-Q/9s0b8hac8pne92y/Hino+700.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Hino 500 NG Muatan Semen",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-500-NG-Muatan-Semen.webp",
+         "link_mods": "https://download2273.mediafire.com/1puf9w98f9cgb073Wwlg4VAWa-df6BR7wBQF5b2T5PlOsMaWaIinUZyEcTGjl4gqreqiD045wwXec2E06UnnTMmpZl1oYtiJu2YJQAfmPHrEGJ1pQxKc0z13jJMvZN-NNGEpDUlj35-LaN0EWYBFvV4nnD_eOQn_jRelD1rc-oQMuw/hhxn3pm47wtbtz5/Truck+Hino+500NG+Muatan+Semen.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Hino 500 NG Muatan Sound System",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-500-NG-Muatan-Sound-System.webp",
+         "link_mods": "https://www.mediafire.com/file/rn2hlo06o8hxf3c/Truck+Hino+500NG+Muatan+Sound+System.bussidmod/file",
+         "link_livery": ""
+      } ,
+      {
+         "title": "Hino 700 Provia Muatan Tank",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700-Provia-Muatan-Tank.webp",
+         "link_mods": "https://download2389.mediafire.com/j1yyh8jmwnggKdBojWG_A3MJTnDpHFMIz8zfaOOXac6czcryoKtHsC2trq6B1CBSwbNK0--MbwppiDzVpjVGgoYdcUjXHO_IHyuFBTOypz_76dxCUihG_hrB53nygw9tgG8w62sSGyLtYazDFunWrQ1MlKNH7UdFHrLVI_2t9LLbew/ulob9epugsmdowk/Truck+Hino+Profia+Tank.bussidmod",
+         "link_livery": ""
+      } ,
+      {
+         "title": "Truck Hino 500 Trailer",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-Trailer.webp",
+         "link_mods": "https://www.mediafire.com/file/9dc9o36m9vaybbx/Mod_Truck_hino_500_Trailer.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/9dc9o36m9vaybbx/Mod_Truck_hino_500_Trailer.bussidmod/file"
+      } ,
+      {
+         "title": "Truck Hino Pertamina",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-Pertamina.webp",
+         "link_mods": "https://www.mediafire.com/file/5v63nc2se2pdd1p/Mod_Truck_Hino_Pertamina.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/r16tp44i7lqfuz9/Livery%20Truck%20Hino%20Pertamina.png"
+      } ,
+      {
+         "title": "Truck Hino 500 Dump Terpal",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-Dump-Terpal.webp",
+         "link_mods": "https://www.mediafire.com/file/zkknrknhafsqtxj/Mod_Truck_Hino_500_Dump_Terpal.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/5yb0sxjqcwhm4xh/Liver%20Truck%20Hino%20500%20Dump%20Terpal.png"
+      } ,
+      {
+         "title": "Hino 700 Chassis",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700-Chassis.webp",
+         "link_mods": "https://www.mediafire.com/file/rkkzqqbdhvxgfoh/Hino_700_Flat_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/08c4ezmbx8wj7o3/Hijo.png"
+      } ,
+      {
+         "title": "Truck Hino 500 Tronton Panjang Banget",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-Tronton-Panjang-Banget.webp",
+         "link_mods": "https://www.mediafire.com/file/eny3fdeem4dvhx8/2._HINO_500_TRONTON_SHARE_BY_JODS_TV.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/2qihfoo9lo9mzqf/2.%20MOD_c8%20krangka%20besi.bussidmodMod%20Vehicle0.png"
+      } ,
+      {
+         "title": "Truck Hino 500 Angkut Truk Tambang",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-Angkut-Truk-Tambang.webp",
+         "link_mods": "https://www.mediafire.com/file/zav2ihr7es6kr0m/Mod_Truck_Hino_500_Angkut_Truk_Tambang.bussidvehicle/file",
+         "link_livery": "https://www.mediafire.com/view/mu1scfq05my74w9/Livery%20Truck%20Hino%20500%20Angkut%20Truk%20Tambang.png"
+      } ,
+      {
+         "title": "Truck Hino 500 Muatan Pipa",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-Muatan-Pipa.webp",
+         "link_mods": "https://download2391.mediafire.com/b46wu5r5k68gmOnnwedE-BtqkQX8DLl00WOHvhT6kee0wzaXsMicBI0eM5bLhMe1ukhp7NUBZ_vPK2WkVmAKA7nTY2KC1T5PqEcLOxDMwgvIcHDceajxTZyb8hrP8MHRvgLXzFwmTF6_zbRPcOFsClcos8EPWNj50QKNGHT6M14MJQ/dkr9fvtap08ahdy/Truck+Hino+500+Angkut+Pipa.bussidvehicle",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Truck Hino 500 Mbois",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-Mbois.webp",
+         "link_mods": "https://www.mediafire.com/file/tw83uytojx8boyi/Mod_Truck_hino_500_Mbois.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/lni500k22g2n823/Livery%20Truck%20hino%20500%20Mbois.png"
+      } ,
+      {
+         "title": "Truck Hino 500 Dylan",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-Dylan.webp",
+         "link_mods": "https://www.mediafire.com/file/pgrdi4c1s2lgx5k/Mod_Truck_Hino_500_Dylan.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/t8lnzfeerca02mc/Livery%20Truck%20Dylan%20Putra%20Kedung-picsa-1.png"
+      } ,
+      {
+         "title": "Hino 500 Modifikasi Bumper",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-500-Modifikasi-Bumper-1.webp",
+         "link_mods": "https://download2389.mediafire.com/1q170rlqns7gdHNdGJUCmZbsIKku_QdfYNQlGXReXiKSk1RTQxRahmLZJ0OMXVk__cziHk-OTMwEk9iSb5xSMqVCc2Cn3weYICZ6JEj-LRwOori_puXwlpbEEk70Ufsc6w6D8FNmv5trbZy3DWKopWxAjYi8GShoB5F2DFyyu3n9tw/ej4y5c4nytb45a4/Truck+Hino+Lohan+Muatan+Kayu.bussidvehicle",
+         "link_livery": "null"
+      } 
+   ]
+}
