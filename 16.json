@@ -1,0 +1,129 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Bussid Kawasaki Ninja RR 2 Tak",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/109.jpg",
+         "link_mods": "https://drive.google.com/file/d/1RV80XMUAvruMPAbReMdLYf7DJhymnndw/view?usp=sharing",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Satria Fu 150 Full Modif Full Spek",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/113.jpg",
+         "link_mods": "https://drive.google.com/file/d/1BMT5YFs8ZzdhJS4OsATrtq3BZMH_MIVu/view?usp=sharing",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod bussid Motor Drag Beat Hobi Kami Mahal",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/118.jpg",
+         "link_mods": "https://drive.google.com/file/d/1CwdQAphnuo_DDcqbktcW-ox5Ts1yJFuO/view?usp=sharing",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod bussid motor RX king",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/01.jpg",
+         "link_mods": "https://drive.google.com/file/d/1ZQa0-nCvkXupKDSXHu03-JuD6cCjAUb6/view?usp=sharing",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Bussid Beat Matic drag",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/03.jpg",
+         "link_mods": "https://drive.google.com/file/d/1jiqoZl96zx_HK3eQDKvHrPuBtAPeI2XM/view?usp=sharing",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Bussid Mio Drag Kencang 200cc",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/07.jpg",
+         "link_mods": "https://drive.google.com/file/d/1rsxVviapu7-Ewzl21XAH5GZ5857l30cP/view?usp=sharing",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Motor Drag Tiger CJDW",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185653_3129-1024x576.jpg.webp",
+         "link_mods": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185653_3129-1024x576.jpg.webp",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Motor Drag Tiger CJDW 2",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2980-1024x575.jpg.webp",
+         "link_mods": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2980-1024x575.jpg.webp",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Motor Drag CJDW Gank",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2706-1024x576.jpg.webp",
+         "link_mods": "https://download2327.mediafire.com/0gsvebu5qk1gGieFt0XDwoRRL5SMpSTeI-uNlOOFiWu93lZfk102zhWMhEqbKgLL2XMmRfaEcX2JtwI-AOWFVQiTw6ofL3C8RrWGSHQRYGpqxg2S-LG7Al8RDssrecJ-AgvvUQusXbzA39PeaIF3wodtY3cK4ePyIy9YAL7lbhUcuQ/64xktc4zbwj3bxt/HEREX+GL+MILKITA+CVT+BY+REGA+X+GAMING+MOD+BY+IAM+PROJECT+.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Motor Drag MP Arganta",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2454-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/s3qjwvaqokaevuk/MP_ARGANTA.bussidmod/file",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Motor Drag MP Pilotter",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2261-1024x575.jpg.webp",
+         "link_mods": "https://download2359.mediafire.com/higwwrrnnyfg4lrMeThEkXH3Sj1IeyjB0Vq6AOWURYlpq1HcGZdku2dZKQjQ_099gsjNA9dnkSx_4c2csDteDgl1hVmmEStzG_RhyBD1tVfJrlgssb_t5Chfpm3pamSKys91h7AY_QOtGFcaJrQVmspJSZijlNMBMe5F5E-qtVTW7A/tsm57ewrr8ojc93/MP+PILOTTER+REGA+X+ILHAM.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Motor Drag Herex Barbara",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185651_1942-1024x575.jpg.webp",
+         "link_mods": "https://download2345.mediafire.com/8ac5wjqhjpdgX6V1vlg6FAzBQcU50ps4vxlJ2n7b1U7ghANrsZ3LvjCDDkrWAYZibmZAh6xlNja-8NWZhcU_D7J-kZN4vzy7anqwhrfC_k2VIp2Vj9RgoR2zvCAgQ8_ixhEaLqcmLw927VZY3FjwQTBYm6pH9Jf8hbtzOFWQCEAfZw/jwqiqjx9i8tz1wb/herex+barbara+by+rega+x+gaming.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Motor Aerox Modif Simpel",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220919_160329_9008-1024x575.jpg.webp",
+         "link_mods": "https://download2348.mediafire.com/jf5aumhtrdmgMDlF308-QKhbvkQdW7w-STCGiUMQHeiR1EThnitodvr-Xy9OPJKnrN1RC8_vLWBAeNlZbBtx1Skd1Rx-JjfbWtWg80JGXcw-5V7Ux7FtsN-7ekJYLyt3qc9vozggbgjFbZCIKWZHfv2nzGH5CIzTGA7I_VMVWqqCgg/bfsv7ispvc1i5lq/AEROX+MODIF+SIMPLE.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Motor Vario 150",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220919_144510_0072-1024x576.jpg.webp",
+         "link_mods": "https://download2284.mediafire.com/hbtd3xc6cxjgfH8va_ClH-d_2Yn_RtIUP11yK-g2UdBaJIyMaAxpG1K4rPSBLeBDJTACmPf_Vgy_SsLcreU4HWlY2Je7clKCEF304NPn2PLvgVj9PYQ-mjax7FvcTkXGCBoPeXSWIU_k5nKBSCOKL-j6ZjF9gZp2rCpKsVTy46nB-w/4xaqw35pqhfht4q/VARIO+MODIF+TRONDOL+BY+REGA+X+GAMING.bussidmod",
+         "link_livery": "null"
+      }
+   ]
+}
