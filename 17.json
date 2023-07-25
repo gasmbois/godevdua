@@ -1,0 +1,147 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "",
+         "image": "",
+         "link_mods": "",
+         "link_livery": ""
+      } ,
+	{
+         "title": "",
+         "image": "",
+         "link_mods": "",
+         "link_livery": ""
+      } ,
+	{
+         "title": "Truck Hino 500 angkut Sound",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Hino-500-Angkut-Sound.webp",
+         "link_mods": "https://download2389.mediafire.com/mred9208etmgnfxgoFnXWC2EeNTEdUwWYVQ9lEWMBN2sCCAisEv_D8xP_nglQ1Uf9tpSN_TSD51eb8Zy2lsztVuYoN-f0-X23YfDDsBgf3S8IKDH_KJHCcNSPuYIA2Kn_zo43n6uVspdh5aVpSvbbSbf1Fco6mDO5rwya5aVXiY-Mg/zookspf8sqg2dkq/Truck+Hino+500+Angkut+Sound.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truk Maleo bawa DJ Sound System",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truk-Maleo-Bawa-DJ-Sound-System.webp",
+         "link_mods": "https://download2393.mediafire.com/t2dgr2m648zgESJtdQUtQXfszepBKe8U8rhrC5vDPzR3TQjCCL7_RjLWGTq7MZ6qtJg8LfVsp0GP4RrBfTHZDSq8aUcX7x4bq9hloI7S5yiZOMiYnpHsoJ17-Z2DOwlnBltqsFQC-iogniqSXb9vyzfPEO5x6rD_EqWx1Obb2ObcBg/9eo4hzoyzavr4df/Andreas_R35_Truk_+Thong_Thong_Lek_New_Pagoeron_DJ_Sound_System.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Canter TE Sound",
+         "image": "https://media.thelastsurvivors.org/2022/12/Canter-TE-Sound.webp",
+         "link_mods": "https://download2325.mediafire.com/jjk3xei5nwoggK8Io7DoV8_BSmR-gmsspBwDceKcIAvCKpq-iV1LjSvHT5bzBsmGLFB646Ptwxz0MLJ8g6zqXmzKhqJ26Wn0baZerq4FfsqPkxNC0-CNXOteh5EXDTzaLtDlSC1RxWSSAAAdJZWB708BPjL_se5KSzXGmDb4ZZdEcQ/iuay1cqejw8ziw1/CANTER+TE+SOUND%5BMOD+BUSSID%5D.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truck Canter TE Sound v2",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Canter-TE-Sound-v2.webp",
+         "link_mods": "https://download2392.mediafire.com/lztd4jc0purgcpr6OgoasKOsKVIsZgVmgTjlyGJtAE33GxqZHdMEUIxNyVzm1mL3k8fMgx1qmtK5lF7wMfm_DhO_DAMqHvPAPF48FkjRsH4xODEFF5pLSCpZh9AFP6G9CDFHe4OHbwdk-fW1J1v6bcaj8xmvPvZZmK55gUGESd58IA/jxdbwsgvhyygdoi/CANTER_TE_SOUND_V2%5BMOD+BUSSID%5D.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truk Thong Thong Angkut Sound Karnaval",
+         "image": "https://media.thelastsurvivors.org/2022/12/Thong-Thong-Angkut-Sound-Festival.webp",
+         "link_mods": "https://download2388.mediafire.com/e9ruq7w3206gikRXfjGOr9X_SmtiX7EWW1eqnW6ajoqH7VbG4wBGkjFjBQPBuhHgsx04G7Pnr2rt7fnFmH8l5b2jIAziFNuVXP5k8uGTB4N6OTLY2g1qfH6bdSp7zA631cMoOY3dOQ-VJz7OHl2icGDsYb5VngGOZMIhL1qhROJ_eA/i7hb7ngw9jl4a05/Andreas_R35_Truk_+Thong_Thong_Lek_New_Pagoeron_Penumpang.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truk Muatan Sound System LED",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truk-Muatan-Sound-System-Overload.webp",
+         "link_mods": "https://download2388.mediafire.com/1718bl7ym3pgv6NMl_QgZs_ORreCnwFcIDTckHRN5R5hDa3qFuJkqDwiVMO8h4HR_oSJ2v1-JzHIUfQUbSaGP2aAg-Ie-kDsRjkHTOzPuOq_xQQ0GbklZRFxjxeMmOF4xA44q5r_8RLoSg2SSILvrkt5AXVRLHtNSbs7b4W3VZzmfw/c0qzzb9zz0hghke/Andreas_R35_Truk_Muatan_Sound_System_LED%2B%2B_V2.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Hino 500 NG HSD Strom Sound",
+         "image": "https://media.thelastsurvivors.org/2022/12/Hino-500-NG-HSD-Strom-Sound.webp",
+         "link_mods": "https://download2335.mediafire.com/9kya5q0wdsvgfb9--nY0BeLnSi-FXhtSxkHNmR2jh2LmtLwQmWN7RPhOKF3eP-uYw6MN9BruK54M64aDN7EUQXOAAnnBG74tpYuajLfU0goV-2Uh8LcZD6umFAhjdPkA4aAYPhjYvFoaeIhA7HPyblgecmjT6WEfCc_37FTSQaRhEg/zo7mvjm7b4xtpdf/Andreas_R35_Hino_500_NG_HSD_Strom_Edition.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod NMR71 Angkut Sound System Brewog",
+         "image": "https://media.thelastsurvivors.org/2022/12/NMR71-Angkut-Sound-Audio-Brewog.webp",
+         "link_mods": "https://download2393.mediafire.com/dle8pjd855tg7pSe4RECBgGVCDncAaYdXND4b3j947GrqRKhX-sRNi20MYB6JvLDbZc-rQgzdaICMatIryhuwMfsXqzfqJbsCmag-lL30dfpeTkMnpoijjzQad5HeMxSraM7zWnrPWF4oQiPVNLmFIu69iwElpyarj9QbBKWC3YXcQ/p0c4kx3y82a5mln/Truck+Nmr71+Angkut+Sound.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Pick Up bawa Sound System",
+         "image": "https://media.thelastsurvivors.org/2022/12/Pick-Up-bawa-Sound-System.webp",
+         "link_mods": "https://www.mediafire.com/file/bakp1pyvfv7kfqp/Pick+up+muatan+sound+sistem.bussidvehicle/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truk Pick Up Dugem Sound Blackpink",
+         "image": "https://media.thelastsurvivors.org/2022/12/Pick-Up-Dugem-Sound-Blackpink.webp",
+         "link_mods": "https://www.mediafire.com/file/fzngkuz7buj8doq/PICK+UP+DUGEM+BLACKPINK+Cvt+By+EAP+door+.bussidvehicle/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod Truck Canter Sound System Tawakal",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Truck-Canter-Sound-System-Tawakal.webp",
+         "link_mods": "https://www.mediafire.com/file/72vtv82ebgp3aqe/Mod+Truck+Canter+Sound+System+Tawakal.rar/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mobil Pick Up muatan Speaker",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mobil-Pick-Up-muatan-Speaker.webp",
+         "link_mods": "https://www.mediafire.com/file/sozj2twceqxk1n9/Mod+Pickup+Muatan+Speaker+By+AzuMods_BassamAzuper.bussidmod/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod BUSSID Truck muatan Sound System Riswanda",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-muatan-Sound-System-Riswanda.webp",
+         "link_mods": "https://www.mediafire.com/file/sozj2twceqxk1n9/Mod+Pickup+Muatan+Speaker+By+AzuMods_BassamAzuper.bussidmod/file",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Truck Arul Putra Roban Audio",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Arul-Putra-Roban-Audio.webp",
+         "link_mods": "https://www.mediafire.com/file/go7remrldj2qimk/mod+MOD+BUSSID+ARUL+AUDIO.rar/file",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Grand Max Sound System Spesial Takbiran",
+         "image": "https://media.thelastsurvivors.org/2022/12/Grand-Max-Sound-System-Spesial-Takbiran.webp",
+         "link_mods": "https://www.mediafire.com/file/jz18q6p0gvx19mo/Grandmax+Takbiran+MAH+Channel.bussidmod/file",
+         "link_livery": "null"
+      }  
+   ]
+}
