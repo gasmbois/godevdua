@@ -1,0 +1,123 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Grand Max Pick Up Full Muatan",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/870.jpg",
+         "link_mods": "https://download2346.mediafire.com/0bxr0xeo3qkgqze7le1Z_ehp8EplpCGYO5NQwQpE1SqTvW_0PnSKsJ1exTHBdGq0djskfsVocKYKa7YradB6K_86oTu55k-KhHMejGJGsgaZGAr_Xg2SlhFWaZ4G7ljJzi7gfXgGDLQrP_NBwIeyKaXkyZeCi0RbcknN-3Ym9ymWHQ/4elngz1hrdzx31f/ALDI+STENDING.zip",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Grand Max Pick Up",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/868.jpg",
+         "link_mods": "https://download2285.mediafire.com/c4zxe47kl6bgWKqk-rjhZBgobpWmYa91g6wnvDEJ-oxyERvB-khhQSqTYBxTQf1eI9Uum_XemgAHPuqoZce57UtwPYSX8bDnuEFbi4k0knpjfbTsEp8HrEcD3NQxqUPoCYPHUlwdbMUAm-nkNUwDQumheAsWz52kXumBSOtXmWU8LQ/3zts7qv53s6fwyl/Grand_Max_V2.zip",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Grand Max Pick Up Racing",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/4018.jpg",
+         "link_mods": "https://www.mediafire.com/file/3zts7qv53s6fwyl/Grand_Max_V2.zip",
+         "link_livery": "https://www.mediafire.com/file/daocmpo2fyi8vs6/grandmekkk.png/file"
+      } ,
+	 {
+         "title": "Grand Max Pick Up Polos",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/871.jpg",
+         "link_mods": "https://ab3.sharemods.com/cgi-bin/dl.cgi/xrzl7sz4vbdbehtegy774l5jcxfn5jngv2iv4xrqscdd6jodg62tt7y/GMSTD.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Grand Max Pick Up Std",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/875.jpg",
+         "link_mods": "https://download2285.mediafire.com/c4zxe47kl6bg53qSRTRJkw3RfpfvRXy_TK4qV4_wH_JC6AAtCqZAtbPTYZyZ9jRwYRPOzByazivMp0XEIKAQkoL1kQ4Dummnbg5uo7kMonmO8y1iqf53xD0ZiRAbD9kRoURKDz51T0CnES8rXram0J_1qCbpNxUKDlvYGFuwiRKT7w/3zts7qv53s6fwyl/Grand_Max_V2.zip",
+         "link_livery": "https://drive.google.com/file/d/1tVZcvA3bCh0NFtdGQ-Eq5vK_ymvT2j95/view?usp=sharing"
+      } ,
+	 {
+         "title": "Grand Max Pick Up Beras",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/873.jpg",
+         "link_mods": "https://ab3.sharemods.com/cgi-bin/dl.cgi/vbzl7szm6qibqbdag572yk7fcshiw5lvfstjlzndm6jvnvo2bff3aay/GMberas.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Grand Max Pick Up Standar",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/874.jpg",
+         "link_mods": "https://download2285.mediafire.com/c4zxe47kl6bgGOSWDGBOIl8kL0GtQDpLf8ZYEWzogYZwemnPA6RiKOT6ZbYXKt_3Nztf-xlVKvMaedD-CFk43Exvq5Pacqy8Jsxl_j3KXS6oSspZxfNU9uOxnv_oiDXHaYpSmunun_IhLsYnp1OX7mPkX2hkhZgppjwog0xjT2l1Fg/3zts7qv53s6fwyl/Grand_Max_V2.zip",
+         "link_livery": "https://drive.google.com/file/d/1uFIKXGxT5LwrJKb2BEjp5hbzqilQ-0xS/view?usp=sharing"
+      } ,
+	 {
+         "title": "Grand Max Pick Up Terpal",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/872.jpg",
+         "link_mods": "https://ab3.sharemods.com/cgi-bin/dl.cgi/vrzl7szrwmhauqrvezq7g5vrjpcy3a3ag3zjgolh4eiegpjewqnfeoa/GMTerpal.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Pick Up Grand Max Sulawesi",
+         "image": "https://media.thelastsurvivors.org/2022/10/Pick-Up-Grand-Max-Sulawesi.webp",
+         "link_mods": "https://www.mediafire.com/file/3t8ivm6hju6ifxa/GRAND_MAX_SULAWESI_BY_ALDI_STENDING.zip/file",
+         "link_livery": "https://www.mediafire.com/view/kyhrd80h1nz2l7f/Liveri%20Aldi%20Stending.png"
+      } ,
+	 {
+         "title": "Mod Grand Max Suzuki Keri",
+         "image": "https://media.thelastsurvivors.org/2022/10/Pick-Up-Grand-Max-Suzuki-Keri.webp",
+         "link_mods": "https://www.mediafire.com/file/2kqzu59fcgrhk8d/SUZUKI_KERI_1967.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/vbnzekhehvyists/kr3.png"
+      } ,
+	 {
+         "title": "Mod Grand Max L300",
+         "image": "https://media.thelastsurvivors.org/2022/10/Mod-Grand-Max-L300.webp",
+         "link_mods": "https://www.mediafire.com/view/633pktajuygy7ye/KARYA%20MUDA%20BY%20LFDESIGN%20ART.png",
+         "link_livery": "https://www.mediafire.com/view/633pktajuygy7ye/KARYA%20MUDA%20BY%20LFDESIGN%20ART.png"
+      } ,
+	 {
+         "title": "Mod Grand Max Box JNE",
+         "image": "https://media.thelastsurvivors.org/2022/10/Mod-Grand-Max-Box-JNE.webp",
+         "link_mods": "https://www.mediafire.com/file/lbvev13i68kpwox/L300_BOX_by_Ad_Iskn.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/4j1tp7pk95egiun/Livery%20Box%20JNE%20Mbois.png"
+      }  ,
+	 {
+         "title": "Mod Grand Max Pickup Standard Resing",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Grand-Max-Pickup-Standard-Resing.webp",
+         "link_mods": "https://download2271.mediafire.com/13nbdlto0gzgvg5gU6MRIYDMmpJSHeUt38WlT7-LwCn1DvZOYLaU_aF-7Coj1WLDsdJqzyiHcnYxSICc4b3JWBOLFXzHMyDYxHm3Xvn3dNi55TGeIrNe7x0na70RT8OiTtF6r_ng3CqvlhZFJoty27bLjVFklqerb11QhEKHIgOLfA/3dk8lpcg8gm6bmb/grand_max_v2+%28Thelastsurvivors.org%29.rar",
+         "link_livery": "null"
+      } 
+   ]
+}
