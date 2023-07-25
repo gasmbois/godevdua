@@ -1,0 +1,111 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Truck Hino Lohan Muatan Kayu",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-Lohan-Muatan-Kayu.webp",
+         "link_mods": "https://www.mediafire.com/file/ej4y5c4nytb45a4/Truck_Hino_Lohan_Muatan_Kayu.bussidvehicle/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Truck NKR66 Muatan Kayu Sengon",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-NMR66-Muatan-Kayu-Sengon.webp",
+         "link_mods": "https://download2270.mediafire.com/54ujrvx8n5cg0OT-lBIa5Co-TmudXNMZWXwW0wzL48qTxNZUYLrvvYtUonUqKgr2k36XnOLjeMMH56RQT_7d69tm1riaYadNKAw3PgcwR_cCbp6On-lVD0eS4DTtdCW95kBkuBhoZfV4e4VRWjOu249QthLliwAVJ9m1t1YMW_rpGA/ivlojs6dz8moi54/NKR66+Muatan+Kayu+Sengon.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Truck Canter Anti Gosip Muatan Kayu Overload",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Canter-Anti-Gosip-Muatan-Kayu-Overload.jpg",
+         "link_mods": "https://download2360.mediafire.com/kf4p3ft56icgaWdWl6vQt-fAHVVqYtPrcTN33lUkFUDlcaYXyJgu_rrDTO7pRMVOerCL9L5xb5FRyXoT_RTWy4flkWvVQOBotlBgPA7mvnpvPsssfOV2ISGwvwAQN-JNJOuQ3V70PnLcmbN8xY73zJ2F6SQNeYgVIao0xWWmRIvK_g/iwycqglfbjh27va/Truck+Canter+Anti+Gosip+Muatan+Kayu+Overload.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Truck Giga Custom 02 Muat Kayu Sengon",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Giga-Custom-02-Muat-Kayu-Sengon.webp",
+         "link_mods": "https://download2277.mediafire.com/imlvg7d246wgqNA30HwAWou0ow2gM_6-4K7aW493lwcKdL3_pBRjZl0Sxhdb9ILDw1_3UX_jixSIgPmoHmu4WpOeFDmANnLlZXF1Q56B5W-JRyN45WYb3CXuRkZjeBcq5yr9YxHZdMH4bmlRkdEBloQNGHraqHDI0dGfPdLynOLcWQ/fhsl1t32n5u1ixc/Truck+Giga+Custom+02+Muat+Kayu+Sengon.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Truck Canter Trondol Bawa Kayu Mahoni",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Truck-Canter-Trondol-Bawa-Kayu.webp",
+         "link_mods": "https://download2297.mediafire.com/nf74urfz9kdgIZ4Mr42T62OQ0sd8S676mVAW4PhZktUaXE_EaY219iQ26IvfZaxohNPZhDrwo8AK2dVHxrjqbhSKMCbmHRoyMcFRSAjuLf46r5arcY5WzVk434lEYdleXxmM03Q8ILaeh9cysZQtwFPogf5NzZpHnh82NkP5d0-4VQ/xlkzvexlysbw03b/Mod+Truck+Canter+Trondol+Bawa+Kayu.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Truk Hino Lohan Losbak Muatan Kayu",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Truk-Hino-Lohan-Losbak-Muatan-Kayu.webp",
+         "link_mods": "https://download2297.mediafire.com/inpjma056svgWzJ8EZx0Y-gCpJNI9YRsRbvrbez60X-8VB2nKWaogMq60-glL2w6j8ayNDVl0ggoUpE-2dfasimyuwBCJm-8xjov5pNihMKYbW9k3xW9QvaN85NaEc3J5EUwUCyEFvbUjbW7AO5obwA9Mo5CybRlClBZGhzzb54v1Q/i4ft5shfnkoesih/Mod+Truk+Hino+Lohan+Losbak+Muatan+Kayu.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Truk Pickup T120SS Muatan Kayu Gayor",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Truk-Pickup-T120SS-Muatan-Kayu-Gayor.webp",
+         "link_mods": "https://download2298.mediafire.com/gddveb78b7ggPnkMAn7iL27qqxMnzW3otQav4NiDL83Q6uxmVL1HXJ139SYX31X_tpVBzBCUap9sbSAfzQpczVhBre53psF34M9VKCy_1jwuFnl6o0JGUJosaGXL3VkYITaKWYPPvlZlzF1hv17_WO5zSM6y2GfNXfFRnKsFp_FE_g/cn7limiwnecwhi4/Mod+Truk+Pickup+T120SS+Muatan+Kayu+Gayor.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Truck Fuso Balak Tronton Muat Kayu",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Truck-Fuso-Balak-Tronton-Muat-Kayu.webp",
+         "link_mods": "https://download1509.mediafire.com/rtczdk4n54ygWU4H4dAO709j2B8Lp0--_Hbqk4XDySVyOKodYzj5IZau11RmdDrpX8SQR1MFHHV6hnS46NH-WYVmE-VGM1W8JMorL_XtKNekUsmiJqyG0Oqy4llcXPqXUaC7xPWgemCNX_-KtdsvNYeERTVf-agoScyYvwXoEM3cFw/e8qpam47tr7g52v/Mod+Truck+Fuso+Balak+Tronton+Muat+Kayu.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Truck NMR71 Mbois Muatan Kayu Tinggi",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Truck-NMR71-Mbois-Muatan-Kayu.webp",
+         "link_mods": "https://download1525.mediafire.com/zsam1dg1o3tgYCNdZPCDpk4ddi4zEjmWh27yhK6yT0Wrdv7f3f4KMb6wn4mHO09Pk2TIycsFfRxNN_49fg_q3Vo2Pp7NnYlLAE8FUIKzoBxVwo4a2yY74aRplgNE6NeXxwtrzV9dHUSsaMHXcZgVC2iIWFaKE5zUetrpMj0GHYmKwA/9oer364uhpkm2zq/Mod+Truck+NMR71+Mbois+Muatan+Kayu.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Truck Umplung Muatan Kayu Full Anim",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Umplung-Muatan-Kayu-Full-Anim.webp",
+         "link_mods": "https://download2260.mediafire.com/oj3gt2v6pnggeYCgDmmWbascbnIF_2rPotlQIp53xrZYjoT8M6vCl9-R5B4xQCJROGYwrI5B9a_n7w5_yM2IN_awSl_whUpNLBY9Z9rHRFdURF6gzK3m2nP7v1qPL4-FN4_y5FS2Q32jx8YTL9_GNpMn_MUkI3mwejIBNuAdu8E7ng/6pju58h68cw73ms/Truck+Umplung+Muatan+Kayu+Full+Anim.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Truck Scania R620 Muatan Kayu Panjang",
+         "image": "https://media.thelastsurvivors.org/2022/11/Truck-Scania-R620-Muatan-Kayu.webp",
+         "link_mods": "https://download2287.mediafire.com/tq53uzbndlzgk4CMYFEAsmyZSaDud8YHBgSXfu_m2jADUjLyDOhwRyTJWLjSQS0KwuAFLPBk0gKIkki4rS-o9_t7wmFoPGzP0bLGJ2YIzQVJ8qPDP-a8mtb-6xm0RveOZO4nH1O0KeWBcJ6kUMUF5I-2kvMIX52i3GkspNcFBw81Gg/agfceg9woddww0g/Truck+Scania+R620+Muatan+Kayu.zip",
+         "link_livery": "null"
+      } 
+   ]
+}
