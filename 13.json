@@ -1,1 +1,106 @@
-
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mobil L300 Pick Up Terpal Segitiga Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-20-10-01-59-85_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://www.mediafire.com/file/ivdh3f35f44gtr3/L300+(1).bussidmod/file",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mobil L300 Angkut Sound system",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-muatan-soundsystem.jpg",
+         "link_mods": "https://download2391.mediafire.com/a3gs29i36y1goBHMOwDx_prg64T-YQmNlH_eEzSRjEFFiIWuN87cJjKBA-wacv4ZhO_JaDFPQSUWjHLlF9GEblRFoJvfum1vrNCK4kpSFDvyk06TxYeQG19OD1Bhwo5E3tg6JMcno5j9aF4VFWL7VmYKYUXrOBRm8rEWFfWpcYkW/dlolh8h0abxtc7r/MOD-BUSSID-Mobil_Bak-Pink_.bussidvehicle",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mobil L300 Angkut Bedug+Orang",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-angkut-bedug.jpg",
+         "link_mods": "https://download2393.mediafire.com/zpn11ohp4uagftELsNrhqina6FJwOn47mk8wdZXvBl7NxahEUjTwUzbNx8tfY8aq3AOM0TmOmYJZfsR7Vrp7g-dcJripYzELP5JdOWrjoj43-Rr8FS-Rfdpn-9EqGvfq-sH240S6FThKJS19HOlngK6sHnEJ-mQ0lW3sycxhrnmI/fbtmvf5g96v24i0/MOD+PICKUP+MUATAN+BEDUK+BY+AZUMODS_BASSAMAZUPER.bussidvehicle",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mobil L300 Muatan Semen",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-muatan-semen.jpg",
+         "link_mods": "https://www.mediafire.com/file/ejtptc6v4rb3m5v/Update.bussidmod/file",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mobil L300 Tribal",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-tribal.jpg",
+         "link_mods": "https://download2275.mediafire.com/nxle9khxslugSiHuzfLiEl0w-8nISom3B0fLCIcN2S7mmw5LAb03MKLzXkSzJ1Yb5qoflb3SwuUq9bSA5o8a1W3HzKUbALg4cXLZ2COo3oAX1H_K94Fcj2lLcqYWmn-C2uqZRoztA0jcb5Wgz4IrKs3VGeRtnCoVrx9K2skRnRZD/mxs6hlfbh3hfxit/L300+tribal.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mobil L300 Angkut Drum",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-angkut-drum.jpg",
+         "link_mods": "https://download2264.mediafire.com/wl26n85tzmxgvZcFT_1F76T6C8jWL6SPA7hOHnYmiS2ixhjLSc4GdQVJ7vDrjLfhPH8PZrclPHTwLACeimk6kNnkfKmV41aPvkEH32grsv5aDeEPsd4ctEfV7pVoca6ipv11XtudsWPwz7lx2xId3PziG-9sDh0Yi2qfQN1-ctHx/gavp8aj1s0au3pq/L300Drumm+--.bussidvehicle",
+         "link_livery": "null"
+      } ,
+      
+      {
+         "title": "Mod BUSSID Pick Up L300",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/11/Compress_20221124_144338_8230-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/c932ib1gvcfb7ov/Traga_Different.bussidmod/file",
+         "link_livery": "https://sfile.mobi/download/710691/246837/ed8ae5acdf732dea687e04c33a65ab7a/livery.png&is=03e85d01fad442227cf87bf1e3292766"
+      } ,
+      {
+         "title": "Mod BUSSID Pick Up L300 Muatan",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/11/Compress_20221124_144338_8547-1-1024x574.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/8yd18htvv1xbt9i/L300_Souleh_Art_Muatan.bussidmod/file",
+         "link_livery": "https://sfile.mobi/download/710692/246837/ed8ae5acdf732dea687e04c33a65ab7a/3-livery-l300-waroos.png&is=03e85d01fad442227cf87bf1e3292766"
+      } ,
+      {
+         "title": "Mod BUSSID Pick Up L300 Body Biru",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/11/Compress_20221124_144338_8700-1024x574.jpg",
+         "link_mods": "https://www.mediafire.com/file/vhdam0b7tls3cjy/Mitsubishi_L300_Rotary_Gayor.bussidmod/file",
+         "link_livery": "https://sfile.mobi/download/710695/246837/ed8ae5acdf732dea687e04c33a65ab7a/4-livery-l300-rotary-hitam-2-.png&is=03e85d01fad442227cf87bf1e3292766"
+      } ,
+      {
+         "title": "Mod BUSSID Pick Up L300",
+         "image": "https://www.mediarale.com/wp-content/uploads/2022/11/Compress_20221124_144339_9023-1024x575.jpg.webp",
+         "link_mods": "https://www.mediafire.com/file/93fajqfapvoge01/FIX_L300.bussidmod/file",
+         "link_livery": "https://sfile.mobi/download/710698/246837/ed8ae5acdf732dea687e04c33a65ab7a/6-livery-l300-via-vallen.png&is=03e85d01fad442227cf87bf1e3292766"
+      } 
+   ]
+}
